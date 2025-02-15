@@ -12,7 +12,7 @@ const icons = () => {
         <>
             <div className="row d-flex justify-content-center">
                 <div className="row w-50 mt-3 row-cols-3">
-                    <div className='col-md-2 d-flex flex-column justify-content-center align-items-center p-2'>
+                    <div className='col-md-2 d-flex flex-column justify-content-center align-items-center p-2 rounded-3 '>
                         <button className="btn" type="button">
                             <img src={favicon1} alt="simple image" className="img-fluid " />
                         </button>
@@ -20,21 +20,21 @@ const icons = () => {
                     </div>
 
 
-                    <div className='col-md-2 d-flex flex-column justify-content-center align-items-center p-2'>
+                    <div className='col-md-2 d-flex flex-column justify-content-center align-items-center p-2 rounded-3'>
                         <button className="btn " type="button">
                             <img src={facebook} alt="simple image" className="img-fluid " />
                         </button>
                         <p className="text-white mt-2">Facebook</p>
                     </div>
 
-                    <div className='col-md-2 d-flex flex-column justify-content-center align-items-center p-2'>
+                    <div className='col-md-2 d-flex flex-column justify-content-center align-items-center p-2 rounded-3'>
                         <button className="btn " type="button">
                             <img src={wikipedia} alt="simple image" className="img-fluid " />
                         </button>
                         <p className="text-white mt-2">Wikipedia</p>
                     </div>
 
-                    <div className='col-md-2 d-flex flex-column justify-content-center align-items-center p-2'>
+                    <div className='col-md-2 d-flex flex-column justify-content-center align-items-center p-2 rounded-3'>
                         <button className="btn " type="button">
                             <img src={reddit} alt="simple image" className="img-fluid " />
                         </button>
@@ -42,14 +42,14 @@ const icons = () => {
                     </div>
 
 
-                    <div className='col-md-2 d-flex flex-column justify-content-center align-items-center p-2'>
+                    <div className='col-md-2 d-flex flex-column justify-content-center align-items-center p-2 rounded-3'>
                         <button className="btn " type="button">
                             <img src={twitter} alt="simple image" className="img-fluid " />
                         </button>
                         <p className="text-white mt-2">Twitter</p>
                     </div>
 
-                    <div className='col-md-2 d-flex flex-column justify-content-center align-items-center p-2'>
+                    <div className='col-md-2 d-flex flex-column justify-content-center align-items-center p-2 rounded-3'>
                         <button className="btn " type="button">
                             <img src={instagram} alt="simple image" className="img-fluid " />
                         </button>
